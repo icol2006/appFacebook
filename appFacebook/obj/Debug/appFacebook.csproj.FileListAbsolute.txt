@@ -1,0 +1,14 @@
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\bin\Debug\appFacebook.exe.config
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\bin\Debug\appFacebook.exe
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\bin\Debug\appFacebook.pdb
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\bin\Debug\Facebook.dll
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\bin\Debug\Facebook.xml
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\obj\Debug\appFacebook.csprojResolveAssemblyReference.cache
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\obj\Debug\appFacebook.Form1.resources
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\obj\Debug\appFacebook.Properties.Resources.resources
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\obj\Debug\appFacebook.csproj.GenerateResource.Cache
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\obj\Debug\appFacebook.exe
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\obj\Debug\appFacebook.pdb
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\obj\Debug\appFacebook.frmPosts.resources
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\bin\Debug\Newtonsoft.Json.dll
+c:\users\byco\documents\visual studio 2013\Projects\appFacebook\appFacebook\bin\Debug\Newtonsoft.Json.xml
